@@ -30,3 +30,15 @@ img {
 .quotes {
     color: red;
 }
+
+a:visited {
+    color: limegreen;
+}
+
+a:hover {
+    color: red;
+}
+
+.important {
+    color: magenta;
+}
